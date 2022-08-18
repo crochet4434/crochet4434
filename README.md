@@ -1,0 +1,9 @@
+# Hello
+
+- 👋 Hi, I’m @crochet4434
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- *first day of school*
+- `assignments must be turned in on time`
+- **Keep track of your own things on canvas**
